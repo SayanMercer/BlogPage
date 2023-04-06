@@ -1,3 +1,4 @@
+// This is the function created for Create Post
 import { useState } from 'react';
 import {firestore} from '../firebase';
 
